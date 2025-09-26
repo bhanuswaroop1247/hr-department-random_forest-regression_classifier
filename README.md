@@ -49,16 +49,13 @@ Recruitment and attrition are costly; this project aims to forecast which employ
 
 ## How to Run This Project?
 
-1. Clone repository:  
-   ```bash
-   git clone https://github.com/yourusername/hr-department-random_forest&regression_classifier
-   ```
-2. Install requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Execute the project notebook, following stepwise cells from data loading to model evaluation.
+To open any notebook from this repository directly in Google Colab:
 
+Copy the notebook's GitHub URL.
+
+Replace github.com with githubtocolab.com in the URL.
+
+Paste the modified URL into your browser and press Enter; the notebook will open in Colab, ready to execute
 ## Results & Conclusion
 
 - Models achieve improved identification of potential attrition.
