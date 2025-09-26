@@ -25,7 +25,7 @@ Recruitment and attrition are costly; this project aims to forecast which employ
 - Python, Pandas for data manipulation
 - scikit-learn for model building (logistic regression, random forest)
 - Matplotlib & Seaborn for data visualization
-- Colab Notebook for development environment[2][3]
+- Colab Notebook for development environment
 
 ## Methods
 
