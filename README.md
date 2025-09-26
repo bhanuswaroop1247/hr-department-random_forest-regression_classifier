@@ -18,7 +18,7 @@ Recruitment and attrition are costly; this project aims to forecast which employ
 
 - IBM HR Analytics Employee Attrition Dataset from Kaggle.
 - Sample features: JobInvolvement, Education, JobSatisfaction, PerformanceRating, RelationshipSatisfaction, WorkLifeBalance.
-- [Dataset link](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset).[3]
+- [Dataset link](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 
 ## Tools and Technologies
 
